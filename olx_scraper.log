@@ -1,0 +1,17 @@
+2025-08-27 17:03:58,455 - INFO - ====== WebDriver manager ======
+2025-08-27 17:03:59,219 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 17:03:59,435 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 17:03:59,655 - INFO - Driver [C:\Users\fawwa\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 17:04:08,810 - INFO - Found 41 ad elements on page.
+2025-08-27 17:04:08,811 - INFO - Collected 41 ads from initial page. Total: 41
+2025-08-27 17:04:09,931 - INFO - Clicked 'Load More' button via JavaScript.
+2025-08-27 17:04:18,022 - INFO - Found 61 ad elements on page.
+2025-08-27 17:04:18,024 - INFO - Collected 61 new ads. Total: 102
+2025-08-27 17:04:19,780 - INFO - Clicked 'Load More' button via JavaScript.
+2025-08-27 17:04:27,895 - INFO - Found 101 ad elements on page.
+2025-08-27 17:04:27,898 - INFO - Collected 101 new ads. Total: 203
+2025-08-27 17:04:29,161 - INFO - Clicked 'Load More' button via JavaScript.
+2025-08-27 17:04:37,295 - INFO - Found 141 ad elements on page.
+2025-08-27 17:04:37,299 - INFO - Collected 141 new ads. Total: 344
+2025-08-27 17:04:37,309 - INFO - Saved 309 ads to olx_car_cover_results_20250827_170437.csv
+2025-08-27 17:04:39,476 - INFO - WebDriver closed.
